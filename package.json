@@ -1,0 +1,26 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "node": "^17.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/japjeet1975/social-network.git"
+  },
+  "author": "Japjeey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/japjeet1975/social-network/issues"
+  },
+  "homepage": "https://github.com/japjeet1975/social-network#readme"
+}
