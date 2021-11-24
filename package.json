@@ -1,26 +1,26 @@
 {
-  "name": "social-network",
+  "name": "models",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
-  "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^6.0.12",
-    "node": "^17.0.1"
-  },
-  "devDependencies": {},
+  "description": "![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "author": "Jap",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.27.0",
+    "mongoose": "^5.9.22"
+  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/japjeet1975/social-network.git"
+    "url": "git+https://github.com/japjeet1975/social-network"
   },
-  "author": "Japjeey",
-  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/japjeet1975/social-network/issues"
+    "url": "https://github.com/japjeet1975/social-network"
   },
-  "homepage": "https://github.com/japjeet1975/social-network#readme"
+  "homepage": "https://github.com/japjeet1975/social-network"
 }
